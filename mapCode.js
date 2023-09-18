@@ -1,5 +1,5 @@
 // variable storing here maps api key
-var apiKey = "uOVTfYk08za4iVYFlm5UMg";
+var apiKey = "Eample";
 
 // variable storing svg image for midpoint map marker
 var midpointMapMarker = '<svg width="65" height="24" ' +
